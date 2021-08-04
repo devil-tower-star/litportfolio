@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<HTML>
+
+<HEAD>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+  <TITLE>Collections</TITLE>
+
+
+  <STYLE TYPE="text/css">
+    body{
+width:1200px;
+height:1110px;
+font-family:Verdana;
+line-height:1.3em;
+color:#333;
+background-color:White;
+margin-left:70px;
+margin-top:30px;
+margin-right:70px;
+overflow-y:hidden;
+}
+h1{
+font-weight:500;
+margin-left:120px;
+}
+h4{
+font-weight:normal;
+font-size:13px;
+margin-top:-10px;
+margin-left:200px;
+}
+hr{
+margin-top:-15px;
+margin-bottom:px;
+margin-left:-5px; 
+margin-right:650px;
+}
+
+.border{
+border-style:hidden;
+border-color:grey;
+float:left;
+margin-left:-10px;
+margin-right:700px;
+margin-top:-5px;
+padding:10px;
+background:white;
+}
+img{
+margin-top:-60px;
+}
+p{
+margin-top:-1px;
+}
+br {
+   display: block;
+   margin: 2px 0;
+}
+  </STYLE>
+</HEAD>
+
+<BODY>
+
+<H1>LIT 2021 Portfolio</H1>
+<h4>created by wei w</h4 >
+<hr>
+<div class="border">
+<P>a series of projects created for art corps program summer of 2021. meant to serve as an exploration into how art and writing in different media can capture feelings that are often difficult to describe with words alone.<br><br>something to keep in mind: the tone of these pieces range from kind of a bummer to really a bummer</P>
+<p><br>
+<b><a href="https://devil-tower-star.github.io/catalog/index.html">the catalog</a></b>
+ - main project<br><br> a project containing essentially another portfolio, filled with writing, animation, music and small games. loosely tied together by a fictional plot but up to viewer interpretation in the end. <br>&emsp;&emsp;tw for paranoia and pessimistic assholes
+</p>
+
+<br>
+
+<p>
+<b><a href="friendship.html">drawings about friendship</a></b> - side project
+<br><br>drawings done in krita and ms paint about hanging around the house and meeting people but still feeling a little awkward and isolated.
+</p>
+
+<br>
+
+<p>
+<b><a href="macros.html">crappy image macros</a></b> - side project
+<br><br>superimposing poetry/short thoughts onto different graphics.
+</p>
+
+<br>
+
+<p>
+<b><a href="journal.html">a story about monotony where i ate too many chocolate granola bits and got sick so i took a day off</a></b> <br>
+<br>a short, first-person pov piece about internal dialogue<br>&emsp;&emsp;tw for animal death
+</p>
+
+
+</div>
+<img src="lobby.jpg" style="float:right; width:600px;height:auto; display:inline-block; margin-top:-550px; margin-right:-20	px;">
+</BODY>
+</HTML>
